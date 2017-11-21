@@ -1,0 +1,47 @@
+19-Nov-2017 11:08:54.207 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.1
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 19 2017 03:03:27 UTC
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.1.0
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.1
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre
+19-Nov-2017 11:08:54.212 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_131-b11
+19-Nov-2017 11:08:54.213 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Nov-2017 11:08:54.213 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/allen/git/apache-tomcat-9.0.1-src/output/build
+19-Nov-2017 11:08:54.213 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/allen/git/apache-tomcat-9.0.1-src/output/build
+19-Nov-2017 11:08:54.214 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/allen/git/apache-tomcat-9.0.1-src/output/build/conf/logging.properties
+19-Nov-2017 11:08:54.214 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Nov-2017 11:08:54.214 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Nov-2017 11:08:54.214 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Nov-2017 11:08:54.215 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/allen/git/apache-tomcat-9.0.1-src/output/build
+19-Nov-2017 11:08:54.215 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/allen/git/apache-tomcat-9.0.1-src/output/build
+19-Nov-2017 11:08:54.215 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/allen/git/apache-tomcat-9.0.1-src/output/build/temp
+19-Nov-2017 11:08:54.215 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/allen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+19-Nov-2017 11:08:54.360 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-Nov-2017 11:08:54.384 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Nov-2017 11:08:54.392 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+19-Nov-2017 11:08:54.393 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Nov-2017 11:08:54.394 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 631 ms
+19-Nov-2017 11:08:54.437 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Nov-2017 11:08:54.437 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.1
+19-Nov-2017 11:08:54.456 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/docs]
+19-Nov-2017 11:08:54.866 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/docs] has finished in [409] ms
+19-Nov-2017 11:08:54.866 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/manager]
+19-Nov-2017 11:08:54.917 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/manager] has finished in [50] ms
+19-Nov-2017 11:08:54.920 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/examples]
+19-Nov-2017 11:08:55.288 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/examples] has finished in [368] ms
+19-Nov-2017 11:08:55.289 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/ROOT]
+19-Nov-2017 11:08:55.306 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/ROOT] has finished in [17] ms
+19-Nov-2017 11:08:55.306 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/host-manager]
+19-Nov-2017 11:08:55.326 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/allen/git/apache-tomcat-9.0.1-src/output/build/webapps/host-manager] has finished in [20] ms
+19-Nov-2017 11:08:55.328 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Nov-2017 11:08:55.337 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+19-Nov-2017 11:08:55.339 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 945 ms
+19-Nov-2017 11:13:42.727 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+19-Nov-2017 11:13:42.728 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Nov-2017 11:13:42.786 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+19-Nov-2017 11:13:42.841 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Nov-2017 11:13:42.864 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Nov-2017 11:13:42.869 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+19-Nov-2017 11:13:42.869 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+19-Nov-2017 11:13:42.870 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
